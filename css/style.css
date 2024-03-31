@@ -10,12 +10,23 @@
     background-color: #75BF7A;
     ;
 }
+.greencolor{
+    color:#75BF7A;
+}
 .graybg{
     background-color: #F9F9F9;
 }
+
 .Gilroy{
     font-family: Gilroy;
 }
 .Gilroybold{
     font-family: Gilroybold;
+}
+@media screen and (max-width:1900px) and (min-width: 768px) {
+    /* 1st para above circle div  */
+    .widthmedia{
+        width: 50%;
+    }
+    
 }
